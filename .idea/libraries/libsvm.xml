@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libsvm">
+    <CLASSES>
+      <root url="jar://E:/fileclassify_data/libsvm.jar!/" />
+      <root url="jar://E:/fileclassify_data/weka.jar!/" />
+      <root url="jar://E:/fileclassify_data/wlsvm.jar!/" />
+      <root url="jar://E:/fileclassify_data/weka-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/fileclassify_data/weka-src.jar!/src/main/java" />
+      <root url="jar://E:/fileclassify_data/weka-src.jar!/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

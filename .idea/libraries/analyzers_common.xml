@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="analyzers-common">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-common" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-icu" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-kuromoji" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-morfologik" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-phonetic" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-smartcn" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-stempel" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/analyzers-uima" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/benchmark" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/classification" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/codecs" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/core" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/demo" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/expressions" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/facet" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/grouping" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/highlighter" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/join" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/memory" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/misc" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/queries" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/queryparser" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/replicator" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/sandbox" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/spatial" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/suggest" />
+      <root url="jar://D:/lucene-4.6.0.zip!/lucene-4.6.0/docs/test-framework" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

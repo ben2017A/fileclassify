@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.4">
+    <CLASSES>
+      <root url="jar://D:/cpdetector_1.0.10/ext/antlr-2.7.4.jar!/" />
+      <root url="jar://D:/cpdetector_1.0.10/ext/chardet-1.0.jar!/" />
+      <root url="jar://D:/cpdetector_1.0.10/ext/jargs-1.0.jar!/" />
+      <root url="jar://D:/cpdetector_1.0.10/cpdetector_1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

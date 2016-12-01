@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-logging">
+    <CLASSES>
+      <root url="jar://E:/fileclassify_data/fansi/paoding-analysis-2.0.4-beta/lib/commons-logging.jar!/" />
+      <root url="jar://E:/fileclassify_data/fansi/paoding-analysis-2.0.4-beta/lib/lucene-highlighter-2.2.0.jar!/" />
+      <root url="jar://E:/fileclassify_data/fansi/paoding-analysis-2.0.4-beta/lib/lucene-core-2.2.0.jar!/" />
+      <root url="jar://E:/fileclassify_data/fansi/paoding-analysis-2.0.4-beta/lib/lucene-analyzers-2.2.0.jar!/" />
+      <root url="jar://E:/fileclassify_data/fansi/paoding-analysis-2.0.4-beta/lib/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

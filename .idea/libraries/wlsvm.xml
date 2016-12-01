@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wlsvm">
+    <CLASSES>
+      <root url="jar://E:/fileclassify_data/wlsvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
